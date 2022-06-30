@@ -1,1 +1,1 @@
-C++ / HTML / CSS / JS / PHP / SQL
+C++ / HTML / CSS / JS / PHP / MySQL
